@@ -1,4 +1,4 @@
-# [FTB Infinity Evolved 1.7](https://feed-the-beast.com/modpack/ftb_infinity_evolved_1_7) By FTB
+# [FTB Infinity Evolved 1.7](https://feed-the-beast.com/modpack/23-ftb_infinity_evolved_1_7) By FTB
 
 <!-- toc -->
 
