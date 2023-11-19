@@ -18,7 +18,7 @@ WORKDIR /data
 EXPOSE 25565/tcp
 
 ENV MOTD "FTB Infinity Evolved 1.7 v3.1.0 Server Powered by Docker"
-ENV LEVEL 
+ENV LEVEL world
 ENV JVM_OPTS "-Xms4096m -Xmx4096m"
 
 CMD ["/launch.sh"]
