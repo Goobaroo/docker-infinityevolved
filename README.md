@@ -36,7 +36,7 @@ These environment variables can be set at run time to override their defaults.
 
 * JVM_OPTS "-Xms4096m -Xmx4096m"
 * MOTD "FTB Infinity Evolved 1.7 Server Powered by Docker"
-* LEVEL world
+* LEVEL 
 
 ### Adding Minecraft Operators
 
