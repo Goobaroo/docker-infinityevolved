@@ -7,7 +7,7 @@ LABEL homepage.group=Minecraft
 LABEL homepage.name="FTB Infinity Evolved 1.7"
 LABEL homepage.icon="https://apps.modpacks.ch/modpacks/art/20/infinity-evolved.png"
 LABEL homepage.widget.type=minecraft
-LABEL homepage.widget.url=InfinityEvolved1.7:25565
+LABEL homepage.widget.url=udp://InfinityEvolved1.7:25565
 
 
 RUN apt-get update && apt-get install -y curl && \
